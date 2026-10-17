@@ -23,7 +23,7 @@ const age = (iso) => {
 function table(jobs) {
   if (!jobs.length) return "_No open roles right now. The list updates every day._\n";
   const rows = jobs.slice(0, MAX_ROWS).map((j) =>
-    `| **${cell(j.company)}** | ${cell(j.title)} | ${cell(j.location)} | [${j.sponsor.entryFilings.toLocaleString("en-US")}](${j.sponsor.url}) | ${age(j.postedAt)} | [Apply](${j.url}) |`,
+    `| **${cell(j.company)}** | ${cell(j.title)} | ${cell(j.location)} | [${j.sponsor.capExempt === "university" ? "No lottery 🎓" : j.sponsor.entryFilings.toLocaleString("en-US")}](${j.sponsor.url}) | ${age(j.postedAt)} | [Apply](${j.url}) |`,
   );
   return ["| Company | Role | Location | Entry-level H-1B filings | Posted | Link |", "| --- | --- | --- | --- | --- | --- |", ...rows].join("\n") + "\n";
 }
