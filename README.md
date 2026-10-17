@@ -10,14 +10,16 @@ Open entry-level jobs and internships in the US, **only at companies with a reco
 ⭐ Star this repo to keep it in your feed. Found a closed role or a wrong entry? [Open an issue](../../issues).
 
 <!-- JOBS:START -->
-**38 open roles** at 26 companies · updated Sat, 17 Oct 2026 06:51 UTC
+**41 open roles** at 27 companies · updated Sat, 17 Oct 2026 08:42 UTC
 
-## New grad & entry-level (32)
+## New grad & entry-level (35)
 
 | Company | Role | Location | Entry-level H-1B filings | Posted | Link |
 | --- | --- | --- | --- | --- | --- |
-| **Johnson Controls** | Materials Engineer | Milwaukee, WI | [4](https://getfirsthire.com/h1b-sponsor/johnson-controls) | Today | [Apply](https://getfirsthire.com/jobs/31d2742f2977a6b15ea8c885866f5b87eed3c7f8be3aac6c7a613cc0b42e1b7f) |
-| **Best Buy** | Geek Squad Agent (Retail Store) | Rockaway, NJ | [4](https://getfirsthire.com/h1b-sponsor/best-buy) | Today | [Apply](https://getfirsthire.com/jobs/09da71fc070cabf38b657e8f4adaedeae07bb7817f84db0fdf1fc125b2dafe63) |
+| **Hologic, Inc.** | Financial Operations Analyst | Newark, DE | [4](https://getfirsthire.com/h1b-sponsor/hologic) | Today | [Apply](https://getfirsthire.com/jobs/4ba536b35c6408e319f816e65bb550b0ae8e8bda146fffb129a6ee6fb336960c) |
+| **TikTok** | Agency Partner Manager Graduate (Scaled Growth) | New York, United States | [86](https://getfirsthire.com/h1b-sponsor/tiktok) | Today | [Apply](https://getfirsthire.com/jobs/08870872901d9b61b6daf7933a854168936f58e5aef947738ef62f7232c11d6d) |
+| **Essentia Health** | LPN, Medical Assistant, or Apprentice | Detroit Lakes, MN | [0](https://getfirsthire.com/h1b-sponsor/essentia-health) | Today | [Apply](https://getfirsthire.com/jobs/30f3b956efd0064a76e50a61708aa6407561315c9579c2cbf38c54e0ae28c106) |
+| **Essentia Health** | LPN, Medical Assistant, or Apprentice | Detroit Lakes, MN | [0](https://getfirsthire.com/h1b-sponsor/essentia-health) | Today | [Apply](https://getfirsthire.com/jobs/486c7eec63ac50855a998ec71bd0bc9fb24cae0950c6ddf27ed367c71a25a33d) |
 | **Veeva Systems** | Associate Consultant | New York, NY | [17](https://getfirsthire.com/h1b-sponsor/veeva-systems) | Today | [Apply](https://getfirsthire.com/jobs/e5ea9a705a85f0cd4eb9c314ee92554037d2d44415a3f4bac9c6254c2cbde993) |
 | **American Honda Motor Company, Inc.** | Software & System Dev. Engineer (102178) | Raymond, OH | [3](https://getfirsthire.com/h1b-sponsor/american-honda-motor) | Today | [Apply](https://getfirsthire.com/jobs/4655ab8b0b790e4ea90694f1a637b32e48bbdf161a0ca8f9e6c2f646cd735d68) |
 | **GFT** | Entry Level Structural Engineer | Chicago, IL | [37](https://getfirsthire.com/h1b-sponsor/gft-infrastructure) | Today | [Apply](https://getfirsthire.com/jobs/077695851d4ae544c0ad0ea63c4b924e45cf5c54f58c312b9f28efe67daf565b) |
@@ -41,6 +43,7 @@ Open entry-level jobs and internships in the US, **only at companies with a reco
 | **NVIDIA** | SoC Software Engineer | Santa Clara, CA | [46](https://getfirsthire.com/h1b-sponsor/nvidia) | 3d | [Apply](https://getfirsthire.com/jobs/9c9e4b1d5ca7100a70c369b085e62653d69e105eed95ed3dad97a1864086ad71) |
 | **Applied Intuition** | Software Engineer | Ann Arbor, MI | [17](https://getfirsthire.com/h1b-sponsor/applied-intuition) | 3d | [Apply](https://getfirsthire.com/jobs/71b7b8783b01abfbc1919c95437c16610d0ac648ad7890229c1b57d6e294a1c3) |
 | **LTM** | Software Engineer | Los Angeles, CA | [20](https://getfirsthire.com/h1b-sponsor/ltimindtree) | 3d | [Apply](https://getfirsthire.com/jobs/705a4b923094de777d2eff6e6baf8e924c4cdf1edf217123a73caeccbb59dfd2) |
+| **Strategic Education, Inc** | Analyst, Finance Rotation | Herndon, VA | [No lottery 🎓](https://getfirsthire.com/h1b-sponsor/strategic-education) | 3d | [Apply](https://getfirsthire.com/jobs/c999d57b7b51bc920c986ee6c9ab1e9aa64b1afd60a2b157fa659e61177787fe) |
 | **TikTok USDS Joint Venture** | Software Engineer Graduate (E-Commerce) | Seattle, WA | [14](https://getfirsthire.com/h1b-sponsor/tiktok-usds-joint-venture) | 3d | [Apply](https://getfirsthire.com/jobs/4f8f3aadb3149ff738434b27e7308415609bd54d4fec8ae12600e54942968ff4) |
 | **Kiewit** | Finance Analyst | El Paso, TX | [5](https://getfirsthire.com/h1b-sponsor/kiewit) | 4d | [Apply](https://getfirsthire.com/jobs/77c755acedb58ac0c5270d09accd3f53805db1df867f1f10f403129f2b8ea71d) |
 | **L&T Technology Services** | Embedded Software Engineer | Mossville, IL | [18](https://getfirsthire.com/h1b-sponsor/l-and-t-technology-services) | 4d | [Apply](https://getfirsthire.com/jobs/7693ea8ed0a7da156bad46f995705472a6eef58723a7a0f7ee6ab2ff4bd6ccdf) |
