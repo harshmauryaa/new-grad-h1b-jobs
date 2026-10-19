@@ -2,7 +2,9 @@ name: Update job list
 
 on:
   schedule:
-    - cron: "0 13 * * *" # every day, 9:00 ET
+    # Twice a day: GitHub sometimes skips a scheduled run when it's busy (it skipped Oct 19)
+    - cron: "17 1 * * *" # 9:17 PM ET / 6:47 AM IST
+    - cron: "17 13 * * *" # 9:17 AM ET / 6:47 PM IST
   workflow_dispatch:
 
 permissions:
