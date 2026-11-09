@@ -10,40 +10,39 @@ Open entry-level jobs and internships in the US, **only at companies with a reco
 ⭐ Star this repo to keep it in your feed. Found a closed role or a wrong entry? [Open an issue](../../issues).
 
 <!-- JOBS:START -->
-**23 open roles** at 17 companies · updated Mon, 09 Nov 2026 07:56 UTC
+**22 open roles** at 19 companies · updated Mon, 09 Nov 2026 22:59 UTC
 
-## New grad & entry-level (18)
+## New grad & entry-level (21)
 
 | Company | Role | Location | Entry-level H-1B filings | Posted | Link |
 | --- | --- | --- | --- | --- | --- |
-| **Regions Bank** | Business Unit Operational Risk Analyst | Charlotte, NC | [4](https://getfirsthire.com/h1b-sponsor/regions-bank) | Today | [Apply](https://getfirsthire.com/jobs/7c22d59d8f0c4fd143e2ef1b3e53b87abb1eeca7cecd51b8a10b286531d71826) |
-| **TikTok** | Machine Learning Engineer Graduate | Seattle, WA | [86](https://getfirsthire.com/h1b-sponsor/tiktok) | Today | [Apply](https://getfirsthire.com/jobs/f602f201a1ab37ba24119f855b452ae40ca3bf09bc3d9663bb96dde9262a6311) |
-| **Baptist Health** | End Point Analyst I | Little Rock, AR | [0](https://getfirsthire.com/h1b-sponsor/baptist-health) | Today | [Apply](https://getfirsthire.com/jobs/cb97174be3644a22b952cfaae5ba5ad2ac7aca72ef6eab05e0ebfa926245108f) |
-| **Micron Technology** | Computer Engineer, Central Engineering | Boise, ID | [48](https://getfirsthire.com/h1b-sponsor/micron-technology) | 1d | [Apply](https://getfirsthire.com/jobs/f858e1f7d636a2ad58ee2271cb0da6b25483a036dbdde88ac4067eb09a3a29f7) |
+| **Orlando Health** | Nurse Resident, Acute Care | Orlando, FL | [2](https://getfirsthire.com/h1b-sponsor/orlando-health) | Today | [Apply](https://getfirsthire.com/jobs/569c692c432a6839fe16e94d7a5a874ca95acdae5366ad306b17a6466ad38497) |
+| **Gulfstream Aerospace** | Ops Eng I | Savannah, GA | [3](https://getfirsthire.com/h1b-sponsor/gulfstream-aerospace) | Today | [Apply](https://getfirsthire.com/jobs/319b9650996bc36e6c0f819cc8415bdb01d030ff5a82b773e1823dabc3b90761) |
+| **Gulfstream Aerospace** | Associate Material Analyst | Savannah, GA | [3](https://getfirsthire.com/h1b-sponsor/gulfstream-aerospace) | Today | [Apply](https://getfirsthire.com/jobs/32de838b6ea520e327233171228592bd053b5099faa768a4e9819468d207d7c9) |
+| **Bain & Company** | Expert Associate Partner, Commercial Excellence | Atlanta, GA | [13](https://getfirsthire.com/h1b-sponsor/bain) | Today | [Apply](https://getfirsthire.com/jobs/4236ee02c4248e95c65cbfb4ba198fafb8240a3681a46aeae55f68d4186fe06d) |
+| **WHOOP** | Software Engineer I (Backend, Growth) | Boston, MA | [6](https://getfirsthire.com/h1b-sponsor/whoop) | Today | [Apply](https://getfirsthire.com/jobs/c7d765af0a5e8bfe932e55a07b2262a26e4beb28747eddbc5e631535efe1bc60) |
+| **BeaconFire Inc.** | Software Engineer | New York, United States | [29](https://getfirsthire.com/h1b-sponsor/beaconfire-staffing-solutions) | Today | [Apply](https://getfirsthire.com/jobs/e212ad325cc55721b0a9b3f1f1a265bb48535cc7c783bcdd94dab7bd70deb54f) |
+| **Goldman Sachs** | Controllers, Analyst | Salt Lake City, UT | [110](https://getfirsthire.com/h1b-sponsor/goldman-sachs) | Today | [Apply](https://getfirsthire.com/jobs/586864db72f10a5258414541b7f5bf474078edbce10c274e2385d7e4ceae1d2a) |
+| **Guidehouse** | Program Accounting Associate Analyst | San Antonio, TX | [6](https://getfirsthire.com/h1b-sponsor/guidehouse) | Today | [Apply](https://getfirsthire.com/jobs/99a2ed6f2a8286df4f5d9b3903f151fa400f6c0f8f33c79ebf1727764fd3cd53) |
+| **Cleveland Clinic** | Financial Analyst I | Independence, OH | [15](https://getfirsthire.com/h1b-sponsor/cleveland-clinic-foundation) | Today | [Apply](https://getfirsthire.com/jobs/0c61e7221e3d4d5cd3459f720cbac6aa4f0cdf5f8e70f5578050c0ebdf966725) |
+| **Adobe** | Software Engineer | California, United States | [126](https://getfirsthire.com/h1b-sponsor/adobe) | Today | [Apply](https://getfirsthire.com/jobs/f624f6f9e0111ea0dae3b4722422404551b52b4d487e61e63d4be2c897cde831) |
+| **Baptist Health** | End Point Analyst I | Little Rock, AR | [0](https://getfirsthire.com/h1b-sponsor/baptist-health) | 1d | [Apply](https://getfirsthire.com/jobs/cb97174be3644a22b952cfaae5ba5ad2ac7aca72ef6eab05e0ebfa926245108f) |
+| **Micron Technology** | Computer Engineer, Central Engineering | Boise, ID | [48](https://getfirsthire.com/h1b-sponsor/micron-technology) | 2d | [Apply](https://getfirsthire.com/jobs/f858e1f7d636a2ad58ee2271cb0da6b25483a036dbdde88ac4067eb09a3a29f7) |
 | **Kiewit** | Entry Level Finance Analyst, Mining Group | Soda Springs, ID | [5](https://getfirsthire.com/h1b-sponsor/kiewit) | 2d | [Apply](https://getfirsthire.com/jobs/4bd8aabd7c9a85438b854bb3adcdd82ddfec62ff19b2b1c9ac00a3bda7bc56c7) |
-| **Charles Schwab** | Associate | Southlake, TX | [3](https://getfirsthire.com/h1b-sponsor/charles-schwab) | 2d | [Apply](https://getfirsthire.com/jobs/999867776de8445fa371fe265cd1a30894239aaee6277bc1d5bedace59925e65) |
-| **Western Governors University** | Associate Software Engineer | Salt Lake City Metropolitan Area | [No lottery 🎓](https://getfirsthire.com/h1b-sponsor/western-governors-university) | 3d | [Apply](https://getfirsthire.com/jobs/b84e048d0e92a9b4b28b86007f119e5f0decf92bde28095e7e496b5f97529b8e) |
-| **StubHub** | Software Engineer I (New Grad) | New York, NY | [3](https://getfirsthire.com/h1b-sponsor/stubhub) | 3d | [Apply](https://getfirsthire.com/jobs/7f1debe0c31ab4d2851f2cee04b3b6d1fc642ce6cf2592dba3f1a535d00067b0) |
-| **CCC Intelligent Solutions** | Financial Intelligence Analyst | Chicago, IL | [5](https://getfirsthire.com/h1b-sponsor/ccc-intelligent-solutions) | 3d | [Apply](https://getfirsthire.com/jobs/16dc82d5d834195d8188924c7c12b61077bc7e217d87fa5878b4dd58ce9640ac) |
-| **Microsoft** | Software Engineer | Redmond, WA | [237](https://getfirsthire.com/h1b-sponsor/microsoft) | 3d | [Apply](https://getfirsthire.com/jobs/7c9205b1ed2d9d1769c0f79bec26c89c6d2ba06cfbf536e4cd25170b24ddd07f) |
-| **BeaconFire Inc.** | Java Software Engineer | New Jersey, United States | [29](https://getfirsthire.com/h1b-sponsor/beaconfire-staffing-solutions) | 4d | [Apply](https://getfirsthire.com/jobs/484ff88ef85b58a9b4039fd80f3116d6ef4d3f3bf6e3099d53def803090f0954) |
-| **Kiewit** | Finance Analyst | Monroe, LA | [5](https://getfirsthire.com/h1b-sponsor/kiewit) | 4d | [Apply](https://getfirsthire.com/jobs/29bf57ca7146261eb76148be493af229c3978459543f09e1e8fc4237cf38febe) |
+| **Charles Schwab** | Associate | Southlake, TX | [3](https://getfirsthire.com/h1b-sponsor/charles-schwab) | 3d | [Apply](https://getfirsthire.com/jobs/999867776de8445fa371fe265cd1a30894239aaee6277bc1d5bedace59925e65) |
+| **StubHub** | Software Engineer I (New Grad) | New York, NY | [3](https://getfirsthire.com/h1b-sponsor/stubhub) | 4d | [Apply](https://getfirsthire.com/jobs/7f1debe0c31ab4d2851f2cee04b3b6d1fc642ce6cf2592dba3f1a535d00067b0) |
+| **Microsoft** | Software Engineer | Redmond, WA | [237](https://getfirsthire.com/h1b-sponsor/microsoft) | 4d | [Apply](https://getfirsthire.com/jobs/7c9205b1ed2d9d1769c0f79bec26c89c6d2ba06cfbf536e4cd25170b24ddd07f) |
+| **Kiewit** | Finance Analyst | Monroe, LA | [5](https://getfirsthire.com/h1b-sponsor/kiewit) | 5d | [Apply](https://getfirsthire.com/jobs/29bf57ca7146261eb76148be493af229c3978459543f09e1e8fc4237cf38febe) |
 | **Wayfair** | Software Engineer I | Boston, MA | [21](https://getfirsthire.com/h1b-sponsor/wayfair) | 5d | [Apply](https://getfirsthire.com/jobs/4b44f2a29bcb367e64a77c744dc01a0c183644e6b23e5f8c039b0c8abbe00f92) |
-| **Amazon** | 2027 (US) | Seattle, WA | [1,460](https://getfirsthire.com/h1b-sponsor/amazon-com-services) | 5d | [Apply](https://getfirsthire.com/jobs/ff14d17ce2d743cdf6420515b7ab0b462dcfb881584b6faafe13c77fb3d77883) |
-| **LexisNexis Risk Solutions** | Software Engineer I | Alpharetta, GA | [10](https://getfirsthire.com/h1b-sponsor/lexisnexis-risk-solutions) | 5d | [Apply](https://getfirsthire.com/jobs/3b4b9ee20253aac236abb409ddf7d691c90ca953f822d7c7129343441b3ed917) |
-| **Microsoft** | Associate Analyst | Washington, United States | [237](https://getfirsthire.com/h1b-sponsor/microsoft) | 5d | [Apply](https://getfirsthire.com/jobs/33c1421247230c5de8da5461ed6a5712ec4bca1f5551190ed74aaedf0426ab5b) |
-| **TikTok USDS Joint Venture** | Software Engineer Graduate (Search) | Seattle, WA | [14](https://getfirsthire.com/h1b-sponsor/tiktok-usds-joint-venture) | 5d | [Apply](https://getfirsthire.com/jobs/c2825f50bda8d72c7b10d3d89835bf8b9e222d18e10596c70010172fdad16aad) |
-| **AECOM** | Entry-Level Digital Solutions Business Analyst | Germantown, MD | [25](https://getfirsthire.com/h1b-sponsor/aecom-technical-services) | 6d | [Apply](https://getfirsthire.com/jobs/18527ef58a8ee81652af36bbea341499bc44046af20fabea6132c759cdd8992b) |
+| **LexisNexis Risk Solutions** | Software Engineer I | Alpharetta, GA | [10](https://getfirsthire.com/h1b-sponsor/lexisnexis-risk-solutions) | 6d | [Apply](https://getfirsthire.com/jobs/3b4b9ee20253aac236abb409ddf7d691c90ca953f822d7c7129343441b3ed917) |
+| **Microsoft** | Associate Analyst | Washington, United States | [237](https://getfirsthire.com/h1b-sponsor/microsoft) | 6d | [Apply](https://getfirsthire.com/jobs/33c1421247230c5de8da5461ed6a5712ec4bca1f5551190ed74aaedf0426ab5b) |
+| **AECOM** | Entry-Level Digital Solutions Business Analyst | Germantown, MD | [25](https://getfirsthire.com/h1b-sponsor/aecom-technical-services) | 7d | [Apply](https://getfirsthire.com/jobs/6891bbd5935c651080693edfa34b8d7985e965193600e0931247c075616902b7) |
 
-## Internships (5)
+## Internships (1)
 
 | Company | Role | Location | Entry-level H-1B filings | Posted | Link |
 | --- | --- | --- | --- | --- | --- |
-| **Samsung Electronics America** | Strategy Intern for National Retail and Strategic Accounts | Plano, TX | [5](https://getfirsthire.com/h1b-sponsor/samsung-electronics-america) | Today | [Apply](https://getfirsthire.com/jobs/cf376042b38f58393b05b89ca06163f132f336fd55cea5d19a8df7020dcee6c2) |
-| **Samsung Electronics America** | eCom Fulfillment Final Mile Intern | Plano, TX | [5](https://getfirsthire.com/h1b-sponsor/samsung-electronics-america) | Today | [Apply](https://getfirsthire.com/jobs/eebdffe70dbcbf9542aa29c7257d768840cac747373ecb3b09ac284e7c9c3290) |
-| **Samsung Electronics America** | ePro Business & Data Analyst Intern | Plano, TX | [5](https://getfirsthire.com/h1b-sponsor/samsung-electronics-america) | Today | [Apply](https://getfirsthire.com/jobs/78f8103b33c4a064ab50f3af24db35e3df0b34bd6af4b8ed5ecb85f08f89c43e) |
-| **Samsung Electronics America** | Business Strategy & Intelligence Intern | Plano, TX | [5](https://getfirsthire.com/h1b-sponsor/samsung-electronics-america) | Today | [Apply](https://getfirsthire.com/jobs/b3810522dc0af6e12371a14682af45d48bb9f0d628e4d55bf7327a1444321e02) |
-| **Samsung Electronics America** | Summer Intern | Plano, TX | [5](https://getfirsthire.com/h1b-sponsor/samsung-electronics-america) | Today | [Apply](https://getfirsthire.com/jobs/68406ccd88fc12666ffff56a3e9ac94731906a92a27ddab3f0bb9d52974541b8) |
+| **Duolingo** | Product Designer, Thrive Intern | Pittsburgh, PA | [31](https://getfirsthire.com/h1b-sponsor/duolingo) | Today | [Apply](https://getfirsthire.com/jobs/e7618872aff2e3dd3228291fa59a945ead7470ca60600df550d49d792dfc8763) |
 
 <sub>H-1B counts: certified Labor Condition Applications at the entry-level wage (Level I) for new hires, Oct 2025 - Jun 2026, from the U.S. Department of Labor, OFLC LCA disclosure data. A filing record is not a promise to sponsor; confirm with the recruiter.</sub>
 <!-- JOBS:END -->
