@@ -10,52 +10,62 @@ Open entry-level jobs and internships in the US, **only at companies with a reco
 ⭐ Star this repo to keep it in your feed. Found a closed role or a wrong entry? [Open an issue](../../issues).
 
 <!-- JOBS:START -->
-**35 open roles** at 23 companies · updated Thu, 12 Nov 2026 20:50 UTC
+**45 open roles** at 30 companies · updated Fri, 13 Nov 2026 07:53 UTC
 
-## New grad & entry-level (28)
+## New grad & entry-level (37)
 
 | Company | Role | Location | Entry-level H-1B filings | Posted | Link |
 | --- | --- | --- | --- | --- | --- |
-| **Nuro** | Systems Engineering, New Grad 2027 | Mountain View, California (HQ) | [5](https://getfirsthire.com/h1b-sponsor/nuro) | Today | [Apply](https://getfirsthire.com/jobs/8da363e6e6fd3423bdf051f85414cd616fa703caa20920586ffed01af3a111b7) |
-| **Mindlance** | Recent Grad (Biomedical) | Johns Creek, GA | [5](https://getfirsthire.com/h1b-sponsor/mindlance) | Today | [Apply](https://getfirsthire.com/jobs/c88f7fea1d16237f465b1490424fff8c72792c7589a9cafa612e9e884624d93d) |
-| **BeaconFire Inc.** | Java Web Developer | North Carolina, United States | [29](https://getfirsthire.com/h1b-sponsor/beaconfire-staffing-solutions) | Today | [Apply](https://getfirsthire.com/jobs/d8cd9a4837083b44e8ed84518cec5910d8fa4412646252c22f46ab5c12d5d2a0) |
-| **Microsoft** | Software Engineering | Redmond, WA | [237](https://getfirsthire.com/h1b-sponsor/microsoft) | Today | [Apply](https://getfirsthire.com/jobs/bdfa8d780f3a2cbc89f4bc0216ba4964a434f16c91657e01f64a59024b0312cf) |
-| **Clemson University** | Junior Business Analyst | Seneca, SC | [No lottery 🎓](https://getfirsthire.com/h1b-sponsor/clemson-university) | Today | [Apply](https://getfirsthire.com/jobs/b709280ef5c22d8c7529d085099b9376381765d398d561e26faf95141f4bf219) |
+| **Sanford Health** | LPN, Internal Medicine Clinic | Fargo, ND | [0](https://getfirsthire.com/h1b-sponsor/sanford-health) | Today | [Apply](https://getfirsthire.com/jobs/e0ee381a086ee040a9cd72ac6de00f924bc3ee225bd8762104cbf3e0384c11c5) |
+| **Federal Express Corporation** | Ops Supervisor, Station | Manassas, VA | [46](https://getfirsthire.com/h1b-sponsor/federal-express) | Today | [Apply](https://getfirsthire.com/jobs/5950cb5a5d22cc104ae891fdbdc53a0e99c94e9371cd0e34c1e56b8143f0871e) |
+| **Federal Express Corporation** | Ops Supervisor | Cypress, TX | [46](https://getfirsthire.com/h1b-sponsor/federal-express) | Today | [Apply](https://getfirsthire.com/jobs/2cb1d97c843d465c3a8d9c80d71da7d26893fceba37b3f1b6ecbb0f8a5171fdc) |
+| **Federal Express Corporation** | PH, Switcher FT | Irving, TX | [46](https://getfirsthire.com/h1b-sponsor/federal-express) | Today | [Apply](https://getfirsthire.com/jobs/55b0dfa29ab5bcd68d7f32ac9f9a27b71ff63b8579e32eaeb70ba1fad2d88a55) |
+| **Federal Express Corporation** | PH | Tyler, TX | [46](https://getfirsthire.com/h1b-sponsor/federal-express) | Today | [Apply](https://getfirsthire.com/jobs/c8e2630bf2ae1438651ad1e58e637dde6403f5d2ce5f6cb6b64fc93391a05f23) |
+| **Trinity Health** | Phlebotomist, Inpatient, Full Time | Grand Rapids, MI | [0](https://getfirsthire.com/h1b-sponsor/trinity-health) | Today | [Apply](https://getfirsthire.com/jobs/a4850bbb22797983e014251d2cedda7911c7587f48647173da7ffa6cfd4d299f) |
+| **Trinity Health** | Medical Technologist, 0 FTE | Grand Rapids, MI | [0](https://getfirsthire.com/h1b-sponsor/trinity-health) | Today | [Apply](https://getfirsthire.com/jobs/484d7b3105413d744a864243b6cc48f0d66330d30ed681b8736fb4b275e6ccd3) |
+| **Charles River Laboratories** | Veterinary Technician I | Ashland, OH | [4](https://getfirsthire.com/h1b-sponsor/charles-river-laboratories) | Today | [Apply](https://getfirsthire.com/jobs/d169a1f3e44a82fb349fd68e69ba399a45c8d300c5114ce8ed7c26cd6af6b8fb) |
+| **Federal Express Corporation** | PH | Chicago, IL | [46](https://getfirsthire.com/h1b-sponsor/federal-express) | Today | [Apply](https://getfirsthire.com/jobs/a466597a32d1812b500015be5f876f4d38c8c0659c91b225b407aad86b1882aa) |
+| **Federal Express Corporation** | Ramp Agent/Feeder/DOT | Grand Forks, ND | [46](https://getfirsthire.com/h1b-sponsor/federal-express) | Today | [Apply](https://getfirsthire.com/jobs/400d62f362129c81f517d2c0c0c47f04217eec9a99891ba3483cbf48771e55ff) |
+| **Georgia Institute of Technology** | Business Analyst | Atlanta Metropolitan Area | [No lottery 🎓](https://getfirsthire.com/h1b-sponsor/georgia-institute-of-technology) | Today | [Apply](https://getfirsthire.com/jobs/f5d482fc8c710ea250ef809f937e8c47e55030ed0af50c51cec51ccfff3e6fd0) |
+| **Morgan Stanley** | Fiduciary Consulting Group, Performance Analyst | Greenwood Village, CO | [54](https://getfirsthire.com/h1b-sponsor/morgan-stanley-services-group) | Today | [Apply](https://getfirsthire.com/jobs/a1590037bfb09e4d4e968750409db286122937764b6afaa794b1563edd9fa64b) |
+| **Cummins Inc.** | Product Engineer | Columbus, IN | [35](https://getfirsthire.com/h1b-sponsor/cummins) | Today | [Apply](https://getfirsthire.com/jobs/e0ac44850779cc879973bffca69cd4d7b96e1bbfdb34ff7357631304a36d35ec) |
+| **Affirm** | Software Engineer I, Backend (Continuous Delivery) | Austin, TX | [13](https://getfirsthire.com/h1b-sponsor/affirm) | Today | [Apply](https://getfirsthire.com/jobs/ac21d5aed2f807915aead0cd08b672a4a29c05aa96d98694da16091330004089) |
+| **M.C. Dean, Inc.** | Engineer 1 | Harrisonburg, VA | [13](https://getfirsthire.com/h1b-sponsor/m-c-dean) | Today | [Apply](https://getfirsthire.com/jobs/dcb462931caa02643697fad58b279b775c3698d6207ece17d0bf6c96b1629f49) |
+| **Hewlett Packard Enterprise** | Systems/Software Engineer I | Sunnyvale, CA | [33](https://getfirsthire.com/h1b-sponsor/hewlett-packard-enterprise) | Today | [Apply](https://getfirsthire.com/jobs/63272edfb95c2848051d14ed3a44c972e0a6d9067b61c43f136776a32e065532) |
+| **Nuro** | Systems Engineering, New Grad 2027 | Mountain View, CA | [5](https://getfirsthire.com/h1b-sponsor/nuro) | Today | [Apply](https://getfirsthire.com/jobs/32ba22b26c889ec4c9f571bd8da1f2fd84d7c444ff3c398b6b32abffa259efb0) |
+| **TikTok** | Software Engineer Graduate (Transaction Platform) | San Jose, CA | [86](https://getfirsthire.com/h1b-sponsor/tiktok) | Today | [Apply](https://getfirsthire.com/jobs/cb902d4f854792eed7e68371b8f8f265637bda9f10372c9568d53868c99ae898) |
 | **BeaconFire Inc.** | Java Software Engineer | Arizona, United States | [29](https://getfirsthire.com/h1b-sponsor/beaconfire-staffing-solutions) | Today | [Apply](https://getfirsthire.com/jobs/e5fd8af93586700d61cafbf60bf9326f2933af48be134c0499ca11e8631db4e1) |
-| **BeaconFire Inc.** | Software Engineer | North Carolina, United States | [29](https://getfirsthire.com/h1b-sponsor/beaconfire-staffing-solutions) | Today | [Apply](https://getfirsthire.com/jobs/816effbf1df0b2e88988505318e254c1b19d4f318a29d70b6d21f738381b63e1) |
-| **BeaconFire Inc.** | Java Full Stack with AI Integration | Ohio, United States | [29](https://getfirsthire.com/h1b-sponsor/beaconfire-staffing-solutions) | Today | [Apply](https://getfirsthire.com/jobs/9036cc1596d658288c164ba0b2edea5192bab3e138baa4d8a10b8a45d985b565) |
 | **Brivo** | Associate Engineer, Software | Austin, TX | [3](https://getfirsthire.com/h1b-sponsor/brivo) | Today | [Apply](https://getfirsthire.com/jobs/128fcdfb812fb392dec55a9dbd659b8dcad4f15f70576a7b4f71ce538832e28d) |
 | **Brivo** | Software Engineer, NEW GRAD | Bethesda, MD | [3](https://getfirsthire.com/h1b-sponsor/brivo) | Today | [Apply](https://getfirsthire.com/jobs/1ee29ab2b0350df39ebfe34c3b42d7a30204330204949099e3e723d03d031202) |
 | **TikTok** | Software Engineer Graduate | San Jose, CA | [86](https://getfirsthire.com/h1b-sponsor/tiktok) | Today | [Apply](https://getfirsthire.com/jobs/8746e314c7fc6b38d3a58cf0614b5b498c8cc70b686babfa65ecd37b3479f1c1) |
 | **TikTok** | AI Engineer Graduate (Client Arch) | San Jose, CA | [86](https://getfirsthire.com/h1b-sponsor/tiktok) | Today | [Apply](https://getfirsthire.com/jobs/373f87112ad002a0f2049b8c786fa6eb9e0dc4062f0aa8afccb6eda2da059a30) |
-| **TikTok** | Machine Learning Engineer Graduate | Seattle, WA | [86](https://getfirsthire.com/h1b-sponsor/tiktok) | Today | [Apply](https://getfirsthire.com/jobs/56e1a5baa0816b7bebaf48c6826170d2dc7c2ce5c5dfba656293d6117309307f) |
 | **TikTok** | AI Infra Engineer Graduate (Recommendation & LLM) | San Jose, CA | [86](https://getfirsthire.com/h1b-sponsor/tiktok) | Today | [Apply](https://getfirsthire.com/jobs/af169b79de562a1976fbab4c2d3e1f54a700b1ccb4fa5ac021c4b9dc1d498369) |
-| **TikTok** | Backend Engineer Graduate | San Jose, CA | [86](https://getfirsthire.com/h1b-sponsor/tiktok) | Today | [Apply](https://getfirsthire.com/jobs/9c742d3eff1b7108c8263e693c35434c02ae573e6461826286ea8ad35dcfef89) |
 | **TikTok** | Software Engineer Graduate (Foundation Platform) | San Jose, CA | [86](https://getfirsthire.com/h1b-sponsor/tiktok) | Today | [Apply](https://getfirsthire.com/jobs/cfc75e8f48b69560df2ade535a058f696b8b92d18f2ad959309034c02d710920) |
 | **TikTok** | Software Engineer Graduate | San Jose, CA | [86](https://getfirsthire.com/h1b-sponsor/tiktok) | Today | [Apply](https://getfirsthire.com/jobs/3dcfd5c6b84825d926908a9aa3f2f44facab2a59026b1c9418084759b7af3133) |
-| **Viasat** | Associate Software Engineer | Carlsbad, CA | [7](https://getfirsthire.com/h1b-sponsor/viasat) | Today | [Apply](https://getfirsthire.com/jobs/d000242ebe586d08fc0d77eff95836b43673089708dcd5751aee9027e7cab523) |
-| **Rubrik** | Software Engineer, Virtual Platform | Palo Alto, CA | [10](https://getfirsthire.com/h1b-sponsor/rubrik) | Today | [Apply](https://getfirsthire.com/jobs/c2150873d3239353af41202de4eb47ab584e213dc7aac20153df17f2f06cb242) |
+| **Viasat** | Associate Software Engineer | Carlsbad, CA | [7](https://getfirsthire.com/h1b-sponsor/viasat) | 1d | [Apply](https://getfirsthire.com/jobs/d000242ebe586d08fc0d77eff95836b43673089708dcd5751aee9027e7cab523) |
+| **Rubrik** | Software Engineer, Virtual Platform | Palo Alto, CA | [10](https://getfirsthire.com/h1b-sponsor/rubrik) | 1d | [Apply](https://getfirsthire.com/jobs/c2150873d3239353af41202de4eb47ab584e213dc7aac20153df17f2f06cb242) |
 | **Ciena** | Test Automation Engineer, New Grad | Petaluma, CA | [6](https://getfirsthire.com/h1b-sponsor/ciena) | 1d | [Apply](https://getfirsthire.com/jobs/372437c4b368cea92f4dcd09374412ce565678541941441589660355cc89c2f1) |
 | **Salesforce** | Software Engineering AMTS (College Grad) | Bellevue, WA | [32](https://getfirsthire.com/h1b-sponsor/salesforce) | 1d | [Apply](https://getfirsthire.com/jobs/cad9321f945e1147aef838ebadd7f5320b9a06ffb3bfb93c423e901633a20505) |
-| **GFT** | Entry Level Security & Safety Analyst | Baltimore, MD | [37](https://getfirsthire.com/h1b-sponsor/gft-infrastructure) | 1d | [Apply](https://getfirsthire.com/jobs/f0418e1bb338eddd2521a5ede1372bb9f3bab9e1f742b1d9bbcb88897ab56602) |
+| **GFT** | Entry Level Security & Safety Analyst | Baltimore, MD | [37](https://getfirsthire.com/h1b-sponsor/gft-infrastructure) | 2d | [Apply](https://getfirsthire.com/jobs/f0418e1bb338eddd2521a5ede1372bb9f3bab9e1f742b1d9bbcb88897ab56602) |
 | **Insight Global** | Associate Software Engineer | San Diego, CA | [31](https://getfirsthire.com/h1b-sponsor/insight-global) | 2d | [Apply](https://getfirsthire.com/jobs/ba6a55ecab9d469affab1ae3431b0ddfb728744d2634452916880fed96b0c72b) |
 | **Adobe** | Software Engineer | California, United States | [126](https://getfirsthire.com/h1b-sponsor/adobe) | 3d | [Apply](https://getfirsthire.com/jobs/f624f6f9e0111ea0dae3b4722422404551b52b4d487e61e63d4be2c897cde831) |
 | **Baptist Health** | End Point Analyst I | Little Rock, AR | [0](https://getfirsthire.com/h1b-sponsor/baptist-health) | 4d | [Apply](https://getfirsthire.com/jobs/cb97174be3644a22b952cfaae5ba5ad2ac7aca72ef6eab05e0ebfa926245108f) |
-| **Kiewit** | Entry Level Finance Analyst, Mining Group | Soda Springs, ID | [5](https://getfirsthire.com/h1b-sponsor/kiewit) | 5d | [Apply](https://getfirsthire.com/jobs/4bd8aabd7c9a85438b854bb3adcdd82ddfec62ff19b2b1c9ac00a3bda7bc56c7) |
-| **Charles Schwab** | Associate | Southlake, TX | [3](https://getfirsthire.com/h1b-sponsor/charles-schwab) | 5d | [Apply](https://getfirsthire.com/jobs/999867776de8445fa371fe265cd1a30894239aaee6277bc1d5bedace59925e65) |
-| **StubHub** | Software Engineer I (New Grad) | New York, NY | [3](https://getfirsthire.com/h1b-sponsor/stubhub) | 6d | [Apply](https://getfirsthire.com/jobs/7f1debe0c31ab4d2851f2cee04b3b6d1fc642ce6cf2592dba3f1a535d00067b0) |
+| **Micron Technology** | Computer Engineer, Central Engineering | Boise, ID | [48](https://getfirsthire.com/h1b-sponsor/micron-technology) | 5d | [Apply](https://getfirsthire.com/jobs/f858e1f7d636a2ad58ee2271cb0da6b25483a036dbdde88ac4067eb09a3a29f7) |
+| **Kiewit** | Entry Level Finance Analyst, Mining Group | Soda Springs, ID | [5](https://getfirsthire.com/h1b-sponsor/kiewit) | 6d | [Apply](https://getfirsthire.com/jobs/4bd8aabd7c9a85438b854bb3adcdd82ddfec62ff19b2b1c9ac00a3bda7bc56c7) |
+| **Charles Schwab** | Associate | Southlake, TX | [3](https://getfirsthire.com/h1b-sponsor/charles-schwab) | 6d | [Apply](https://getfirsthire.com/jobs/999867776de8445fa371fe265cd1a30894239aaee6277bc1d5bedace59925e65) |
 
-## Internships (7)
+## Internships (8)
 
 | Company | Role | Location | Entry-level H-1B filings | Posted | Link |
 | --- | --- | --- | --- | --- | --- |
-| **Pinterest** | Sales Analytics Intern 2027 (USA) | San Francisco, CA, US; Remote, US | [15](https://getfirsthire.com/h1b-sponsor/pinterest) | Today | [Apply](https://getfirsthire.com/jobs/6796ebe8dc28580890f894ba89ece32d3b15928f4adda993c8d8537635abadf7) |
-| **Navy Federal Credit Union** | Summer Associate Internship | Vienna, VA | [6](https://getfirsthire.com/h1b-sponsor/navy-federal-credit-union) | Today | [Apply](https://getfirsthire.com/jobs/14796968f5b03699610732358dfa36e32a83593348c18ed540640a7770920bb9) |
-| **Navy Federal Credit Union** | Summer Associate Internship | Vienna, VA | [6](https://getfirsthire.com/h1b-sponsor/navy-federal-credit-union) | Today | [Apply](https://getfirsthire.com/jobs/d6653772c802fe2fe5f27de2d220660656d92dec56946161c4735ad7d3b1112a) |
-| **Navy Federal Credit Union** | Summer Associate Internship | Pensacola, FL | [6](https://getfirsthire.com/h1b-sponsor/navy-federal-credit-union) | Today | [Apply](https://getfirsthire.com/jobs/e2479022557c3798a7aadeb038b24c219f28faee311c9e56de252a6b1f6649d4) |
-| **Netflix** | Strategy MBA Internship, Summer 2027 | Los Angeles, CA | [47](https://getfirsthire.com/h1b-sponsor/netflix) | Today | [Apply](https://getfirsthire.com/jobs/200b30c4cf7cfaf528d1bf8fe4f9b66301aaa321d32f5bd47d558e243cf41e86) |
-| **Coinbase** | Software Engineer Intern | San Francisco, CA | [26](https://getfirsthire.com/h1b-sponsor/coinbase) | Today | [Apply](https://getfirsthire.com/jobs/b4d5fcf3082123f0696cd234756344d6cd51459d878d4f8e3c98d60c8e26a538) |
-| **Intel** | SLT Mechanical Design Intern | Phoenix, AZ | [8](https://getfirsthire.com/h1b-sponsor/intel) | Today | [Apply](https://getfirsthire.com/jobs/c04b12a7e03d28e617f5b934b6b5d41541fe5ec7e7cdc675a4204fc19396e14c) |
+| **Charles River Laboratories** | 2027 Summer Intern, Internal Audit | Wilmington, MA | [4](https://getfirsthire.com/h1b-sponsor/charles-river-laboratories) | Today | [Apply](https://getfirsthire.com/jobs/36f27326e8507c619a8bfc567b7cb1fd4e742adad8fb96755bfd2c8a1e18d322) |
+| **Jabil** | Manufacturing Engineering Intern | Monument, CO | [4](https://getfirsthire.com/h1b-sponsor/jabil) | Today | [Apply](https://getfirsthire.com/jobs/ec9f18dda4709eac2132695022068e59d1b0099faa12ffd1e90386f4a919c5c9) |
+| **Motorola Solutions** | 2027 Summer Internship | Chicago, IL | [3](https://getfirsthire.com/h1b-sponsor/motorola-solutions) | Today | [Apply](https://getfirsthire.com/jobs/1ce7bcbe3d2b1a5134e1d17482d8b52b3dd657da09bd124f3f9dcdc5b21a5c3b) |
+| **Lightmatter** | Quality & Reliability, Intern Summer 2027 | San Jose, CA | [3](https://getfirsthire.com/h1b-sponsor/lightmatter) | Today | [Apply](https://getfirsthire.com/jobs/f840ff4cf5a1ffa251ba638db010fbee09f802072611c5d56e97d1e01ed961df) |
+| **ASML** | Internship, Data Scientist | Wilton Center, CT | [35](https://getfirsthire.com/h1b-sponsor/asml-us) | Today | [Apply](https://getfirsthire.com/jobs/ed4aa51c71e54d0420a5d4baa934e89c8ee993a2e803ed020f36b80873bc6d61) |
+| **Lightmatter** | Quality & Reliability, Intern Summer 2027 | Mountain View, CA | [3](https://getfirsthire.com/h1b-sponsor/lightmatter) | Today | [Apply](https://getfirsthire.com/jobs/b091d404324cf40ecca062a5a328b4b78e1e315f264a4c80ef05c18bf08e735f) |
+| **Lightmatter** | Quality & Reliability, Intern Summer 2027 | Mountain View, CA | [3](https://getfirsthire.com/h1b-sponsor/lightmatter) | Today | [Apply](https://getfirsthire.com/jobs/db473a3f8a13ee826c7ae3cc08633d620463c3117aa46854713ce02ba4b9f929) |
+| **Arm** | Intern Technical Writer | Austin, TX | [7](https://getfirsthire.com/h1b-sponsor/arm) | Today | [Apply](https://getfirsthire.com/jobs/b8690ab2ee6d1c6112051af90ce90beaa93d2d526365717163328cc05b198c92) |
 
 <sub>H-1B counts: certified Labor Condition Applications at the entry-level wage (Level I) for new hires, Oct 2025 - Jun 2026, from the U.S. Department of Labor, OFLC LCA disclosure data. A filing record is not a promise to sponsor; confirm with the recruiter.</sub>
 <!-- JOBS:END -->
